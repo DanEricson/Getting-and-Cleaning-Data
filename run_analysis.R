@@ -1,5 +1,6 @@
 run_analysis <- function() {
       ##sets directory path
+      ##note that the package dplyr must be installed to run this script
       setwd("/Users/dan 1/Desktop/Coursera/Data Science with R/Cleaning and Tidying Data with R")
       
       ##reads x_test, y_test, subject_test files and binds them together
